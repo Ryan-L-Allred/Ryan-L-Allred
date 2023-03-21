@@ -1,3 +1,3 @@
 # Hello!
-## My name is Ryan.
+## I'm Ryan Allred and I am a software developer.
 
