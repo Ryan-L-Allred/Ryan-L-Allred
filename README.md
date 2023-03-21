@@ -24,7 +24,7 @@
       <h3 align="center">That's My Song</h3>
         <br />
         <a target="_blank" href="https://www.youtube.com/watch?v=Ok9PwjfdD1k&t=44s">
-            <img src="https://drive.google.com/file/d/16TZt9v83H1Jqx6iBU3C75YOuMW6i6nqC/view?usp=share_link"/>
+            <img src="BlackBeltMagic_Screenshot.png"/>
         </a>
         <br />
         <p align="center">
