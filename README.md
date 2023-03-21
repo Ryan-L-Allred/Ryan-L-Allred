@@ -24,7 +24,7 @@
       <h3 align="center">That's My Song</h3>
         <br />
         <a target="_blank" href="https://www.youtube.com/watch?v=Ok9PwjfdD1k&t=44s">
-            <img src="BlackBeltMagic_Screenshot.png"/>
+            <img src="ThatsMySong_Screenshot.png"/>
         </a>
         <br />
         <p align="center">
@@ -42,7 +42,7 @@
       <h3 align="center">Black Belt Magic"</h3>
         <br />
       <a target="_blank" href="https://www.youtube.com/watch?v=3QTmyuyiu-Q">
-            <img src="https://drive.google.com/file/d/1oVpJNaMfw6pPvMULgbJrsDLodMA14f2S/view?usp=share_link" width="100%" "/>
+            <img src="BlackBeltMagic_Screenshot.png" width="100%" "/>
         </a>
         <br />
         <p align="center">
