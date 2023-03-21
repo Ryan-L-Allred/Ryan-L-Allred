@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ryan Allred</h1>
 <h3 align="center">A passionate software developer who's always ready to take it to the next level.</h3>
 
-- 🔭 I’m currently working on [That's My Song](https://github.com/Ryan-L-Allred/Thats-My-Song-Fullstack-Capstone)
-
-- 👯 I’m looking to collaborate on [Black Belt Magic](https://github.com/Ryan-L-Allred/Black-Belt-Magic-Front-End-Capstone-NSS)
-
-- 👨‍💻 All of my projects are available at [https://ryanallred.netlify.app/](https://ryanallred.netlify.app/)
-
-- 📫 How to reach me **ryanallred91@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/ryana/Downloads/RyanAllred_Resume.pdf](file:///C:/Users/ryana/Downloads/RyanAllred_Resume.pdf)
+<p align="center">
+  <a href="https://ryanallred.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ryan-lee-allred/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/RyanAllred42wo" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="file:///C:/Users/ryana/Downloads/RyanAllred_Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
