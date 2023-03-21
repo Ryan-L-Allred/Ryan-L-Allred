@@ -42,7 +42,7 @@
       <h3 align="center">Black Belt Magic"</h3>
         <br />
       <a target="_blank" href="https://www.youtube.com/watch?v=3QTmyuyiu-Q">
-            <img src="https://drive.google.com/file/d/1oVpJNaMfw6pPvMULgbJrsDLodMA14f2S/view?usp=share_link" width="100%"  alt="Rigley 2"/>
+            <img src="https://drive.google.com/file/d/1oVpJNaMfw6pPvMULgbJrsDLodMA14f2S/view?usp=share_link" width="100%" "/>
         </a>
         <br />
         <p align="center">
