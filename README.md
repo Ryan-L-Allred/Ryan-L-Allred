@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h3 align="center">A passionate software developer who's always ready to take it to the next level.</h3>
+<h3 align="center">A passionate software developer who's always ready to take it to the next level!</h3>
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
