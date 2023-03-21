@@ -1,8 +1,5 @@
 <img src="GitHub_CoverPhoto.jpg" width="100%">
 
-<h1 align="center">Hi 👋, I'm Ryan Allred</h1>
-<h3 align="center">A passionate software developer who's always ready to take it to the next level.</h3>
-
 <p align="center">
   <a href="https://ryanallred.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
@@ -17,6 +14,8 @@
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
+
+<h3 align="center">A passionate software developer who's always ready to take it to the next level.</h3>
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
