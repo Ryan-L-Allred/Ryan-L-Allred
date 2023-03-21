@@ -11,7 +11,7 @@
   <a href="https://twitter.com/RyanAllred42wo" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://www.canva.com/design/DAFcKnmnP-Y/IX20NqwJbz-y3hjupSQkiQ/view?utm_content=DAFcKnmnP-Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
+  <a href="https://drive.google.com/file/d/1VE-RFsjGqz4rxLihSDlQqOnljIs0tNNR/view?usp=share_link" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
