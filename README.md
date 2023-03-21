@@ -16,6 +16,51 @@
   </a>
 </p>
 
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">That's My Song</h3>
+        <br />
+        <a target="_blank" href="https://www.youtube.com/watch?v=Ok9PwjfdD1k&t=44s">
+            <img src="https://drive.google.com/file/d/16TZt9v83H1Jqx6iBU3C75YOuMW6i6nqC/view?usp=share_link"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Ryan-L-Allred/Thats-My-Song-Fullstack-Capstone" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://www.youtube.com/watch?v=Ok9PwjfdD1k&t=44s" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React.js, C#, .NET, & SQLServer</strong> - That's My Song is an application that takes inspiration from whosample.com and introduces users to new music through the use of sampling in the hip hop genre.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Black Belt Magic"</h3>
+        <br />
+      <a target="_blank" href="https://www.youtube.com/watch?v=3QTmyuyiu-Q">
+            <img src="https://drive.google.com/file/d/1oVpJNaMfw6pPvMULgbJrsDLodMA14f2S/view?usp=share_link" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Ryan-L-Allred/Black-Belt-Magic-Front-End-Capstone-NSS" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=3QTmyuyiu-Q" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React.js & JSON Server</strong> - Black Belt Magic is a Q&A forum that connects prospective martial arts students with active martial arts instructors. </p>
+    </td>
+  </tr>
+  
+</table>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ryanallred42wo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ryanallred42wo" height="30" width="40" /></a>
