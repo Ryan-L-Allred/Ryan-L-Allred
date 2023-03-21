@@ -1,3 +1,5 @@
+<img src="GitHub_CoverPhoto.jpg" width="100%">
+
 <h1 align="center">Hi 👋, I'm Ryan Allred</h1>
 <h3 align="center">A passionate software developer who's always ready to take it to the next level.</h3>
 
