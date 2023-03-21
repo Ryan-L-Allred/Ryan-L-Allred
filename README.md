@@ -30,7 +30,7 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/Ryan-L-Allred/Thats-My-Song-Fullstack-Capstone" target="_blank">
+  <a href="https://github.com/Ryan-L-Allred/Thats-My-Song" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://www.youtube.com/watch?v=Ok9PwjfdD1k&t=44s" target="_blank">
@@ -48,7 +48,7 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/Ryan-L-Allred/Black-Belt-Magic-Front-End-Capstone-NSS" target="_blank">
+  <a href="https://github.com/Ryan-L-Allred/Black-Belt-Magic" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://www.youtube.com/watch?v=3QTmyuyiu-Q" target="_blank">
