@@ -40,7 +40,7 @@
         <p><strong>React.js, C#, .NET, & SQLServer</strong> - That's My Song is an application that takes inspiration from whosample.com and introduces users to new music through the use of sampling in the hip hop genre.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Black Belt Magic"</h3>
+      <h3 align="center">Black Belt Magic</h3>
         <br />
       <a target="_blank" href="https://www.youtube.com/watch?v=3QTmyuyiu-Q">
             <img src="BlackBeltMagic_Screenshot.png" width="100%" "/>
